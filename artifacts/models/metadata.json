@@ -1,0 +1,24 @@
+{
+  "model_type": "RandomForestClassifier",
+  "selection_method": "GridSearchCV",
+  "scoring": "f1",
+  "best_params": {
+    "class_weight": {
+      "0": 1,
+      "1": 2
+    },
+    "max_depth": 20,
+    "max_features": "sqrt",
+    "min_samples_leaf": 1,
+    "min_samples_split": 5,
+    "n_estimators": 450
+  },
+  "final_threshold": 0.32,
+  "metrics": {
+    "roc_auc": 0.935,
+    "brier_score": 0.059,
+    "pr_auc": 0.8881,
+    "business_cost": 222070
+  },
+  "trained_at_utc": "2026-09-07T15:18:56.684352+00:00"
+}

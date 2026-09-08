@@ -1,0 +1,14 @@
+{
+  "sensitive_attribute": "age_group_18-25",
+  "acceptable_threshold": 0.1,
+  "correction_applied": true,
+  "method": "ThresholdOptimizer (equalized_odds)",
+  "metrics_before": {
+    "demographic_parity_diff": 0.1398,
+    "equalized_odds_diff": 0.3214
+  },
+  "metrics_after": {
+    "demographic_parity_diff": 0.0917,
+    "equalized_odds_diff": 0.3571
+  }
+}
