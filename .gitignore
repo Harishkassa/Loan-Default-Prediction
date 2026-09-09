@@ -1,7 +1,6 @@
 .vscode
 /catboost_info
 __pycache__
-data/
-datasets/
+/data
 /artifacts
 /reports
