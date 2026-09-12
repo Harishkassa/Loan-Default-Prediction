@@ -4,3 +4,4 @@ __pycache__
 /data
 /artifacts
 /reports
+/multiple_stage_notebooks/catboost_info
