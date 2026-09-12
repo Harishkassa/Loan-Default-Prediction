@@ -1,5 +1,5 @@
 .vscode
-/catboost_info
+/notebooks/catboost_info
 __pycache__
 /data
 /artifacts
