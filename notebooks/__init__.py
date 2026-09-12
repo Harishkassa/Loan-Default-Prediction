@@ -52,6 +52,3 @@ from fairlearn.metrics import (
 
 from fairlearn.postprocessing import ThresholdOptimizer
 from scipy.stats import ks_2samp, chi2_contingency
-
-
-
